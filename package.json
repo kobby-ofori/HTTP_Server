@@ -1,0 +1,11 @@
+{
+  "name": "HTTP_SERVER",
+  "version": "1.0.0",
+  "description": "server with http package",
+  "main": "index.js",
+  "author": "Elijah",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
